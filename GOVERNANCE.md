@@ -28,9 +28,10 @@ The TSC is composed of the following members and their deputies:
   ([@adrian-vaca-humanes-wt](https://github.com/adrian-vaca-humanes-wt)),
   Resolve<br/> Deputy: Gerardo González Seco
   ([@gegose](https://github.com/gegose)), Resolve
-- Hari Dilip Kumar ([@haridk-iudx](https://github.com/haridk-iudx)), Data for
-  Public Good<br/> Deputy: Sarthak Sharma
-  ([@SarthakSharm](https://github.com/SarthakSharm)), Data for Public Good
+- Hari Dilip Kumar ([@haridk-iudx](https://github.com/haridk-iudx)), Centre of
+  Data for Public Good (CDPG)<br/> Deputy: Sarthak Sharma
+  ([@SarthakSharm](https://github.com/SarthakSharm)), Centre of Data for Public
+  Good (CDPG)
 
 ### TSC Chair
 

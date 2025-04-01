@@ -4,11 +4,11 @@
 
 This Charter sets forth the responsibilities and procedures for technical
 contribution to, and oversight of, the Carbyne Stack open source project (the
-"Project”), which has been established as a project of Linux Foundation Europe,
-a Belgian private stichting headquartered at Kunstlaan 56, Brussels ("LF
-Europe"). All contributors (including maintainers, and other technical
-positions) and other participants in the Project (collectively, "Collaborators")
-must comply with the terms of this Charter.
+"Project”), which has been established as a project of
+[Linux Foundation Europe][lfe], a Belgian private stichting headquartered at
+Kunstlaan 56, Brussels ("LF Europe"). All contributors (including maintainers,
+and other technical positions) and other participants in the Project
+(collectively, "Collaborators") must comply with the terms of this Charter.
 
 ## 1. Mission and Scope of the Project
 
@@ -30,26 +30,26 @@ must comply with the terms of this Charter.
    1. <ins>Startup Period</ins>. From the inception of the Project until the TSC
       transitions to the "Steady State Period" as described in Section 2.2.ii.,
       the voting members of the TSC consist of one appointed representative from
-      each organization named in the "GOVERNANCE" file within the `governance`
-      repository of the Project.
+      each organization named in the [GOVERNANCE][gov-file] file within the
+      `governance` repository of the Project.
 
    1. <ins>Steady State Period</ins>. Within 2 years following the inception of
       the Project, or at such other date as determined by the TSC, the TSC will
       adopt an alternative structure for determining voting members of the TSC
       (such as having elections from among contributors, having maintainers or a
       subset of maintainers make up the voting members, etc.). Any such
-      structure approach will be documented in the GOVERNANCE file.
+      structure approach will be documented in the [GOVERNANCE][gov-file] file.
 
-1. At any time the TSC may choose an alternative approach for determining the
-   voting members of the TSC via a vote by the voting members as provided in
-   Section 3. Any such alternative approach will be documented in the GOVERNANCE
-   file. Any meetings of the Technical Steering Committee are intended to be
-   open to the public, and can be conducted electronically, via teleconference,
-   or in person.
+   1. At any time the TSC may choose an alternative approach for determining the
+      voting members of the TSC via a vote by the voting members as provided in
+      Section 3. Any such alternative approach will be documented in the
+      [GOVERNANCE][gov-file] file. Any meetings of the Technical Steering
+      Committee are intended to be open to the public, and can be conducted
+      electronically, via teleconference, or in person.
 
 1. TSC projects generally will involve Contributors and Maintainers. The TSC may
-   adopt or modify roles so long as the roles are documented in the GOVERNANCE
-   file. Unless otherwise documented:
+   adopt or modify roles so long as the roles are documented in the
+   [GOVERNANCE][gov-file] file. Unless otherwise documented:
 
    1. The Project implements a contribution-request workflow. Any interested
       person may contribute to the Project by submitting a contribution request.
@@ -103,9 +103,9 @@ must comply with the terms of this Charter.
       issue reporting policies;
 
    1. approving and implementing policies and processes for contributing (to be
-      published in the CONTRIBUTING file) and coordinating with LF Europe to
-      resolve matters or concerns that may arise as set forth in Section 7 of
-      this Charter;
+      published in the [CONTRIBUTING][contrib-file] file) and coordinating with
+      LF Europe to resolve matters or concerns that may arise as set forth in
+      Section 7 of this Charter;
 
    1. discussions, seeking consensus, and where necessary, voting on technical
       matters relating to the code base that affect multiple projects; and
@@ -246,3 +246,7 @@ must comply with the terms of this Charter.
 
 1. This charter may be amended by a two-thirds vote of the entire TSC and is
    subject to approval by LF Europe.
+
+[contrib-file]: https://github.com/carbynestack/carbynestack/blob/master/CONTRIBUTING.md
+[gov-file]: GOVERNANCE.md
+[lfe]: https://linuxfoundation.eu/
