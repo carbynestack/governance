@@ -49,5 +49,5 @@ The TSC meets at 10 am Central European Time (CET) on the first Tuesday of every
 month. TSC meetings are open to the public, and are held virtually via
 [Zoom][tsc-call]. Meeting notes are archived [here][tsc-minutes].
 
-[tsc-call]: https://TBD
+[tsc-call]: https://zoom-lfx.platform.linuxfoundation.org/meeting/98174979905?password=46cd5e4e-c165-4ef9-a545-93f36cda8e0f
 [tsc-minutes]: https://github.com/carbynestack/governance/wiki/TSC-Meeting-Minutes
