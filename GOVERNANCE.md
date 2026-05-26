@@ -39,9 +39,10 @@ The TSC may elect a TSC Chair, who will preside at meetings of the TSC.
 
 The current TSC chair is:
 
-- Sven Trieflinger ([@strieflin](https://github.com/strieflin)), Robert Bosch
-  GmbH<br/> Deputy: Sebastian Becker ([@sbckr](https://github.com/sbckr)),
-  Robert Bosch GmbH
+- Dr. Shyam Murthy ([shyam.sm@datakaveri.org](mailto:shyam.sm@datakaveri.org)),
+  Centre of Data for Public Good (CDPG)<br/> Deputy: Sarthak Sharma
+  ([@SarthakSharm](https://github.com/SarthakSharm)), Centre of Data for Public
+  Good (CDPG)
 
 ### Meetings
 
