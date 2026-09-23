@@ -13,9 +13,6 @@ oversight of the Project.
 
 The TSC is composed of the following members and their deputies:
 
-- Sven Trieflinger ([@strieflin](https://github.com/strieflin)), Robert Bosch
-  GmbH<br/> Deputy: Sebastian Becker ([@sbckr](https://github.com/sbckr)),
-  Robert Bosch GmbH
 - Riivo Talviste ([@druid](https://github.com/druid)), Cybernetica AS<br/>
   Deputy: Kert Tali ([@ktali](https://github.com/ktali)), Cybernetica AS
 - Farzad Tofigh ([@TFarzad](https://github.com/TFarzad)), University of
